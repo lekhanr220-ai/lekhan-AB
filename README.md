@@ -1,2 +1,3 @@
 # lekhan-AB
-FIRST PROJECT
+THIS IS FIRST PROJECT
+Author - lekhan r
